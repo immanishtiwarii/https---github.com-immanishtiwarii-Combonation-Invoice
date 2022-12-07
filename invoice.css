@@ -1,0 +1,179 @@
+body {
+  font-family: "Poppins";
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+}
+
+h3,h4,h5,p {
+  font-family: "Poppins";
+  font-size: 12px;
+}
+
+
+
+.logo img {
+  width: 210px;
+  height: auto;
+  padding-left: 2rem;
+
+}
+
+.logo {
+    display: flex;
+}
+
+.logo h3 {
+  margin-left: auto;
+  padding-top: 2rem;
+  font-weight: normal;
+  padding-right: 4.5rem;
+  font-size: 30px;
+  line-height: 1rem;
+
+}
+.logo h3 span {
+  font-weight: normal;
+  margin-left: auto;
+  font-size: 20px
+}
+
+/* section 2 */
+.section-two {
+  display: flex;
+}
+
+.section-two .sold-by {
+  padding-left: 2rem;
+}
+.sold-by h4 {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.sold-by p {
+  font-weight: normal;
+  line-height: 1.2rem;
+}
+
+.sold-by span {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.section-two .billing-address {
+  margin-left: auto;
+  padding-right: 2rem;
+}
+.billing-address h4 {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+.billing-address p {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+/* section 3 */
+
+.section-three {
+  display: flex;
+}
+
+.shipping-address {
+  margin-left: auto;
+  padding-right: 2rem;
+  line-height: 1.1rem;
+}
+
+.shipping-address h4 {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.pan {
+  padding-left: 2rem;
+}
+
+.pan h5 {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.pan span {
+  font-weight:400;
+}
+
+/* section 4 */
+
+.section-four {
+  display: flex;
+  line-height: 1.1rem;
+}
+
+.state {
+  margin-left: auto;
+  padding-right:2rem;
+}
+
+.state h5 {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.state span {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.order {
+  padding-left: 2rem;
+}
+
+.order h5 {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.order span {
+  font-weight: normal;
+}
+
+table,th,td{
+  border: 2.5px solid black;
+  line-height: 1.2rem;
+  width: 50%;
+  height: 50px;
+}
+
+
+.text-end p {
+  font-weight: normal;
+}
+
+.text-end img {
+  width: 80px;
+}
+
+.text-end h4 {
+  font-weight: normal;
+  line-height: 1.1rem;
+}
+
+.text-end {
+  border-left: 2px solid #c9c9c9;
+  border-bottom: 2px solid #c9c9c9;
+  border-right: 2px solid #c9c9c9;
+  padding-right: 1rem;
+  padding-top: 1rem;
+  border-top:2px solid #c9c9c9;
+}
+
+.bottom-text {
+  font-weight: normal;
+  line-height:1rem;
+}
+
+.hr {
+  margin-top: -1rem;
+}
